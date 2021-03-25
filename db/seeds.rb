@@ -14,3 +14,4 @@ end
 
 MatterTypePopulator.call
 ProceedingTypePopulator.call
+MeritsTaskPopulator.call
