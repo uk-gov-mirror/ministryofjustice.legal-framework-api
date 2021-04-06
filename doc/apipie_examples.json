@@ -8,7 +8,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "7690f83c-f223-4885-aae3-a0393d889d6c",
+        "request_id": "18f59af8-8ddc-4e50-88ba-6ebeb48f2073",
         "proceeding_types": [
           "DA005",
           "SE004",
@@ -16,7 +16,7 @@
         ]
       },
       "response_data": {
-        "request_id": "7690f83c-f223-4885-aae3-a0393d889d6c",
+        "request_id": "18f59af8-8ddc-4e50-88ba-6ebeb48f2073",
         "success": true,
         "application": {
           "tasks": {
@@ -73,7 +73,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "e6867342-c295-4d56-bc0c-a85b7e2cc085",
+        "request_id": "ea9a234f-4d2a-4517-9b6e-3b41eb0b6697",
         "proceeding_types": [
           "DA005",
           "SE004",
@@ -81,7 +81,7 @@
         ]
       },
       "response_data": {
-        "request_id": "e6867342-c295-4d56-bc0c-a85b7e2cc085",
+        "request_id": "ea9a234f-4d2a-4517-9b6e-3b41eb0b6697",
         "success": true,
         "application": {
           "tasks": {
@@ -138,7 +138,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "57eced24-b40a-4d28-9799-a7758de1d8ef",
+        "request_id": "0b9e7657-d7bc-4a81-8c40-5762beeba700",
         "proceeding_types": [
           "DA005",
           "SE004",
@@ -146,7 +146,7 @@
         ]
       },
       "response_data": {
-        "request_id": "57eced24-b40a-4d28-9799-a7758de1d8ef",
+        "request_id": "0b9e7657-d7bc-4a81-8c40-5762beeba700",
         "success": true,
         "application": {
           "tasks": {
@@ -203,7 +203,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "51a9f800-5831-452f-8278-31c102ab05f2",
+        "request_id": "c74b855d-7952-470c-be70-9a23997f3dfd",
         "proceeding_types": [
           "DA005",
           "ZZ262",
@@ -211,7 +211,7 @@
         ]
       },
       "response_data": {
-        "request_id": "51a9f800-5831-452f-8278-31c102ab05f2",
+        "request_id": "c74b855d-7952-470c-be70-9a23997f3dfd",
         "success": false,
         "error_class": "ActiveRecord::RecordNotFound",
         "message": "Couldn't find ProceedingType",
@@ -293,7 +293,7 @@
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch_or_store'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:317:in `block in let'",
-          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:81:in `block (4 levels) in <main>'",
+          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:80:in `block (4 levels) in <main>'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `instance_exec'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `block in run'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:508:in `block in with_around_and_singleton_context_hooks'",
@@ -364,7 +364,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "c18003ef-e6cc-46cb-9b5a-c715ed2c3e71",
+        "request_id": "b706d4bc-2507-44b4-a72a-3e3f8afce1d4",
         "proceeding_types": [
           "DA005",
           "ZZ262",
@@ -372,7 +372,7 @@
         ]
       },
       "response_data": {
-        "request_id": "c18003ef-e6cc-46cb-9b5a-c715ed2c3e71",
+        "request_id": "b706d4bc-2507-44b4-a72a-3e3f8afce1d4",
         "success": false,
         "error_class": "ActiveRecord::RecordNotFound",
         "message": "Couldn't find ProceedingType",
@@ -454,7 +454,7 @@
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch_or_store'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:317:in `block in let'",
-          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:86:in `block (4 levels) in <main>'",
+          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:85:in `block (4 levels) in <main>'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `instance_exec'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `block in run'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:508:in `block in with_around_and_singleton_context_hooks'",
@@ -525,7 +525,7 @@
       ],
       "query": null,
       "request_data": {
-        "request_id": "83158143-71fe-4b6f-b40c-508c54736ee9",
+        "request_id": "0bf3c5ba-4ad2-4387-bdd3-f6fe8c6d22f8",
         "proceeding_types": [
           "DA005",
           "ZZ262",
@@ -533,7 +533,7 @@
         ]
       },
       "response_data": {
-        "request_id": "83158143-71fe-4b6f-b40c-508c54736ee9",
+        "request_id": "0bf3c5ba-4ad2-4387-bdd3-f6fe8c6d22f8",
         "success": false,
         "error_class": "ActiveRecord::RecordNotFound",
         "message": "Couldn't find ProceedingType",
@@ -615,7 +615,7 @@
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:155:in `fetch_or_store'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/memoized_helpers.rb:317:in `block in let'",
-          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:95:in `block (5 levels) in <main>'",
+          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:94:in `block (5 levels) in <main>'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/matchers/built_in/change.rb:373:in `perform_change'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/matchers/built_in/change.rb:141:in `matches?'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/expectations/handler.rb:51:in `block in handle_matcher'",
@@ -623,7 +623,7 @@
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/expectations/handler.rb:48:in `handle_matcher'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/expectations/expectation_target.rb:65:in `to'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-expectations-3.10.1/lib/rspec/expectations/expectation_target.rb:101:in `to'",
-          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:95:in `block (4 levels) in <main>'",
+          "/Users/stephenrichards/moj/lfa/spec/requests/merits_tasks_spec.rb:94:in `block (4 levels) in <main>'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `instance_exec'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:262:in `block in run'",
           "/Users/stephenrichards/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rspec-core-3.10.1/lib/rspec/core/example.rb:508:in `block in with_around_and_singleton_context_hooks'",

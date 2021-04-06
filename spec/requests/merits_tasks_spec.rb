@@ -20,7 +20,7 @@ RSpec.describe MeritsTasksController, type: :request do
 
       let(:proceeding_types) { %w[DA005 SE004 SE013] }
 
-      it 'returns success', :show_in_doc do
+      it 'returns success', :show_in_doc, doc_title: 'Successful request' do
         subject
         expect(response).to have_http_status(:success)
       end
@@ -76,7 +76,7 @@ RSpec.describe MeritsTasksController, type: :request do
     context 'unsuccessful_request' do
       let(:proceeding_types) { %w[DA005 ZZ262 SE013] }
 
-      it 'returns bad request', :show_in_doc do
+      it 'returns bad request', :show_in_doc, doc_title: 'Non-existent proceeding type' do
         subject
         expect(response.status).to eq 400
       end
